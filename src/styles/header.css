@@ -1,0 +1,48 @@
+
+.logob{
+    width: 70%;
+    flex-basis: 25%;
+    margin: 25% 40%;
+}
+.titre{
+    font-family:fantasy;
+    color: aliceblue;
+    font-size: x-large;
+    margin-top: 2.6%;
+    padding-right: 24%;
+}
+.liens{
+    margin-top: 1%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(20, 15, 10,1);
+}
+.liste{
+    display: flex;
+    flex-basis: 40%;
+}
+li {
+    flex-basis: 15%;
+    padding: 3%;
+    list-style: none;
+    font-family:fantasy;
+    color: aliceblue;
+    font-size: x-large;
+}
+button{
+    flex-basis: 20%;
+    margin-top: 20%;
+    padding: 10% 45%;
+    font-family: fantasy;
+    font-size: large;
+    background-color:orangered;
+    color: aliceblue;
+
+   
+}
+.Button{
+    padding-top: 2%;
+    margin-right: 5%;
+}

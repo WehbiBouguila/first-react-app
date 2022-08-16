@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+.body{
+    margin: auto;
+}
+.firstBlock{
+    display: flex;
+    text-align: center;
+    margin-bottom: 5%;
+    flex-wrap: wrap;
+
+}
+.card{
+    flex-basis: 32%;
+  
+}
+/* .secondBlock{
+    display: flex;
+    text-align: center;
+} */
+.title{
+    text-align: center;
+}
+.title p {
+    color: orangered;
+    font-family: fantasy;
+    font-size: x-large;
+}
