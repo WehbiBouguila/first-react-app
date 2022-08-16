@@ -17,12 +17,12 @@ export default function Home() {
             </div>
             <div className='firstBlock'>   
                 
-                    <Card/>
-                    <Card/>
-                    <Card/>
-                    <Card/>
-                    <Card/>
-                    <Card/>
+                    <Card img={cards} titttle={"1er bootcamp en France"} parag={"4500 alumni formés depuis 2012"}/>
+                    <Card img={icon} titttle={"Enseignées par des professionnels"} parag={"qui partagent plus qu'une passion !"}   />
+                    <Card img={image} titttle={"Certifiées et reconnue"} parag={"par l'état, le secteur et les entreprises"} />
+                    <Card img={cert} titttle={"Testez nos cours gratuitement"} parag={"depuis chez vous et dès maintenant"} />
+                    <Card img={load} titttle={"Osez la reconversion professionnelle"} parag={"car l'ambition est le seul pré-requis"} />
+                    <Card img={pic} titttle={"Spécialisez vous davantage"} parag={"avec des programmes pour tous niveaux"}  />
                          
             </div>
              
